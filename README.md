@@ -10,6 +10,8 @@ I have a burning desire to play battleship in a java program.
 
 It establishes matrixes containing the positions of each player's ships and allows players to input coordinate guesses. The program checks whether the guess has matched with the position of one of the other player's ships. Once one player has lost all of their ships, a victory message will be displayed and the game will end.
 
+![Battleship Game Diagram](<img width="764" height="1701" alt="BattleshipDiagram" src="https://github.com/user-attachments/assets/89f798dd-3e29-4d74-befb-2fdbff34db94" />)
+
 ## Tech Stack
 - **Language:** Java
 - **Libraries:** Java.util.Scanner, java.util.Arrays
