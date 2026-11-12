@@ -16,7 +16,9 @@ It establishes matrixes containing the positions of each player's ships and allo
 
 ## Setup / Usage
 
-Run BattleshipGame.java
+Download or clone this repository to your computer.
+2. Open the project folder in your preferred Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.).
+3. Run `Main.java`  
 
 ## Roadmap
 
