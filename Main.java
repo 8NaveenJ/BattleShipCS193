@@ -1,4 +1,4 @@
 public static void main(String[] args) {
-    BattleShipGame myGame = new BattleShipGame();
+    BattleshipGame myGame = new BattleshipGame();
     myGame.displayMatrix(myGame.getPlayerOneShips());
 }
